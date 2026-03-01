@@ -1,0 +1,180 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Lumina City Official Portal</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <style>
+        /* Typography & Colors */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f7f6;
+        }
+
+        .gov-blue {
+            background-color: #0038a8;
+        }
+        /* Philippine Blue */
+        .gov-red {
+            background-color: #ce1126;
+        }
+        /* Philippine Red */
+        .gov-gold {
+            color: #f9a602;
+        }
+        /* Philippine Gold */
+
+        /* Top Auth Bar */
+        .top-bar {
+            background: #ffffff;
+            padding: 8px 0;
+            border-bottom: 1px solid #e0e0e0;
+            font-size: 11px;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+        }
+
+            .top-bar a {
+                color: #333;
+                text-decoration: none;
+                padding: 0 5px;
+            }
+
+                .top-bar a:hover {
+                    color: #0038a8;
+                }
+
+        /* Branding Header */
+        .main-header {
+            background: white;
+            padding: 20px 0;
+            border-bottom: 5px solid #f9a602;
+        }
+
+        .agency-logo {
+            height: 70px;
+            float: left;
+            margin-right: 20px;
+        }
+
+        .agency-name h1 {
+            font-size: 22px;
+            margin: 0;
+            color: #0038a8;
+            font-weight: 800;
+            text-transform: uppercase;
+        }
+
+        .agency-name p {
+            margin: 0;
+            font-size: 13px;
+            color: #666;
+        }
+
+        /* Navigation */
+        .navbar-gov {
+            background: #0038a8;
+            border: none;
+            border-radius: 0;
+            margin-bottom: 0;
+        }
+
+            .navbar-gov .navbar-nav > li > a {
+                color: white !important;
+                font-weight: bold;
+                font-size: 13px;
+                padding: 15px 20px;
+            }
+
+                .navbar-gov .navbar-nav > li > a:hover {
+                    background: #002e8a;
+                }
+
+        .admin-link {
+            background: #ce1126 !important;
+        }
+
+            .admin-link:hover {
+                background: #a50d1e !important;
+            }
+
+        /* Footer */
+        footer {
+            background: #222;
+            color: #ccc;
+            padding: 40px 0;
+            margin-top: 50px;
+            border-top: 4px solid #0038a8;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="top-bar">
+        <div class="container">
+            <div class="pull-left">
+                @if (Session["Username"] == null)
+                {
+                    <a href="@Url.Action("Login", "Account")">LOG IN</a> <span> | </span>
+                    <a href="@Url.Action("SignUp", "Account")">SIGN UP</a>
+                }
+                else
+                {
+                    <span class="text-muted">WELCOME, <span class="gov-gold">@Session["Username"].ToString().ToUpper()</span></span> <span> | </span>
+                    <a href="@Url.Action("Logout", "Account")">LOGOUT</a>
+                }
+            </div>
+            <div class="pull-right text-muted">REPUBLIC OF THE PHILIPPINES</div>
+        </div>
+    </div>
+
+    <header class="main-header">
+        <div class="container">
+            <div style="width: 70px; height: 70px; background: #0038a8; border-radius: 50%; float: left; margin-right: 15px; border: 3px solid #f9a602; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">LC</div>
+            <div class="agency-name">
+                <h1>City Government of Lumina</h1>
+                <p>The Digital Gateway to Southern Excellence</p>
+            </div>
+        </div>
+    </header>
+
+    <nav class="navbar navbar-gov">
+        <div class="container">
+            <ul class="nav navbar-nav">
+                <li>@Html.ActionLink("HOME", "Index", "Home")</li>
+                <li>@Html.ActionLink("TRANSPARENCY", "About", "Home")</li>
+                <li><a href="#">SERVICES</a></li>
+                <li><a href="#">NEWS</a></li>
+
+                @if (Session["UserRole"] != null && (int)Session["UserRole"] == 1)
+                {
+                    <li>@Html.ActionLink("ADMIN DASHBOARD", "Index", "Users", null, new { @class = "admin-link" })</li>
+                }
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container body-content" style="background: white; box-shadow: 0 0 20px rgba(0,0,0,0.05); min-height: 500px; padding: 30px;">
+        @RenderBody()
+    </div>
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h4 class="gov-gold">Lumina City Portal</h4>
+                    <p>Building a smarter, more transparent city through digital innovation. Managed by the Information Technology Office.</p>
+                </div>
+                <div class="col-md-6 text-right">
+                    <p>&copy; @DateTime.Now.Year - Republic of the Philippines</p>
+                    <p class="small">Privacy Policy | Terms of Service</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</body>
+</html>

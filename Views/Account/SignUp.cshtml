@@ -1,0 +1,52 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row" style="margin-top: 50px;">
+    <div class="col-md-6 col-md-offset-3">
+        <div class="panel panel-default" style="border-top: 5px solid #003366; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+            <div class="panel-body" style="padding: 30px;">
+                <div class="text-center">
+                    <h2 style="color: #003366; font-weight: bold;">Create Citizen Account</h2>
+                    <p class="text-muted">Register to access Lumina City digital services.</p>
+                </div>
+                <hr />
+
+                @if (ViewBag.Error != null)
+                {
+                    <div class="alert alert-danger">@ViewBag.Error</div>
+                }
+
+                @using (Html.BeginForm("Register", "Account", FormMethod.Post))
+                {
+                    <div class="form-group">
+                        <label><i class="glyphicon glyphicon-user"></i> Full Name</label>
+                        <input type="text" name="fullName" class="form-control" required placeholder="Juan Dela Cruz" />
+                    </div>
+
+                    <div class="form-group">
+                        <label><i class="glyphicon glyphicon-envelope"></i> Email Address</label>
+                        <input type="email" name="email" class="form-control" required placeholder="email@example.com" />
+                    </div>
+
+                    <div class="form-group">
+                        <label><i class="glyphicon glyphicon-tag"></i> Username</label>
+                        <input type="text" name="username" class="form-control" required />
+                    </div>
+
+                    <div class="form-group">
+                        <label><i class="glyphicon glyphicon-lock"></i> Password</label>
+                        <input type="password" name="password" class="form-control" required />
+                    </div>
+
+                    <div style="margin-top: 20px;">
+                        <button type="submit" class="btn btn-primary btn-block btn-lg" style="background-color: #003366;">
+                            REGISTER AS CITIZEN
+                        </button>
+                    </div>
+                }
+            </div>
+        </div>
+        <p class="text-center">Already have an account? <a href="@Url.Action("Login", "Account")">Log in here</a></p>
+    </div>
+</div>

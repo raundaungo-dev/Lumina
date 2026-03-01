@@ -1,0 +1,47 @@
+﻿@{
+    ViewBag.Title = "Home | City of Lumina";
+}
+
+<div class="hero-portal">
+    <div class="container text-center">
+        <h1 style="font-weight: 900; font-size: 4em; margin-bottom: 10px;">LUMINA CITY</h1>
+        <p style="font-size: 1.4em; font-weight: 300; letter-spacing: 2px;">"Leading the Way to a Brighter Future"</p>
+        <div style="margin-top: 35px;">
+            <a href="@Url.Action("SignUp", "Account")" class="btn btn-warning btn-lg" style="background-color: #f9a602; border: none; font-weight: bold; padding: 15px 45px; border-radius: 50px;">GET STARTED</a>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row card-row">
+        <div class="col-md-4 card-container">
+            <div class="card-service">
+                <i class="glyphicon glyphicon-briefcase"></i>
+                <h4>Business Permit</h4>
+                <p>Register or renew your business license through our automated tracking system.</p>
+                <a href="@Url.Action("Services", "Home")" class="btn btn-primary btn-sm" style="background:#0038a8;">Learn More</a>
+            </div>
+        </div>
+        <div class="col-md-4 card-container">
+            <div class="card-service">
+                <i class="glyphicon glyphicon-file"></i>
+                <h4>Civil Registry</h4>
+                <p>Request Birth, Marriage, or Death certificates with secure digital verification.</p>
+                <a href="@Url.Action("Services", "Home")" class="btn btn-primary btn-sm" style="background:#0038a8;">Learn More</a>
+            </div>
+        </div>
+        <div class="col-md-4 card-container">
+            <div class="card-service">
+                <i class="glyphicon glyphicon-credit-card"></i>
+                <h4>RPT Payment</h4>
+                <p>Calculate and pay your Real Property Taxes online instantly without the queues.</p>
+                <a href="@Url.Action("Services", "Home")" class="btn btn-primary btn-sm" style="background:#0038a8;">Learn More</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container text-center" style="margin: 80px 0;">
+    <h2 style="font-weight: 800; color: #0038a8;">DIGITAL GOVERNANCE</h2>
+    <p style="max-width: 700px; margin: 0 auto; color: #666; font-size: 1.2em;">Connecting the LuminaCityDB to your fingertips for a faster, more transparent experience.</p>
+</div>

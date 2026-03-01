@@ -1,0 +1,10 @@
+﻿@model LuminaPortal.Models.UserAccount
+@{ ViewBag.Title = "Create User"; }
+<h2>Register Citizen</h2>
+@using (Html.BeginForm())
+{
+    <p>Username: @Html.TextBoxFor(m => m.Username, new { @class = "form-control" })</p>
+    <p>Password: @Html.PasswordFor(m => m.PasswordHash, new { @class = "form-control" })</p>
+    <p>Email: @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })</p>
+    <input type="submit" value="Save to Database" class="btn btn-success" />
+}

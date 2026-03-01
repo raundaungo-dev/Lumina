@@ -1,0 +1,52 @@
+﻿@{
+    ViewBag.Title = "Secure Citizen Login | Lumina City";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container" style="margin-top: 100px; margin-bottom: 100px;">
+    <div class="row">
+        <div class="col-md-4 col-md-offset-4">
+            <div class="panel panel-default" style="border: none; border-top: 6px solid #0038a8; box-shadow: 0 15px 35px rgba(0,0,0,0.1); border-radius: 8px;">
+                <div class="panel-body" style="padding: 40px;">
+
+                    <div class="text-center" style="margin-bottom: 30px;">
+                        <h3 style="font-weight: 800; color: #0038a8; margin-bottom: 10px;">CITY LOGIN</h3>
+                        <p class="text-muted small">Official Citizen & Admin Access Portal</p>
+                    </div>
+
+                    @using (Html.BeginForm("Login", "Account", FormMethod.Post))
+                    {
+                        <div class="form-group" style="margin-bottom: 20px;">
+                            <label style="font-size: 12px; text-transform: uppercase; color: #666;">Username</label>
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+                                <input type="text" name="username" class="form-control input-lg" placeholder="e.g. juan_delacruz" required />
+                            </div>
+                        </div>
+
+                        <div class="form-group" style="margin-bottom: 30px;">
+                            <label style="font-size: 12px; text-transform: uppercase; color: #666;">Password</label>
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
+                                <input type="password" name="password" class="form-control input-lg" placeholder="••••••••" required />
+                            </div>
+                        </div>
+
+                        <button type="submit" class="btn btn-primary btn-block btn-lg" style="background: #0038a8; border: none; font-weight: bold; letter-spacing: 1px; padding: 12px;">
+                            SIGN IN
+                        </button>
+                    }
+
+                    <div class="text-center" style="margin-top: 25px;">
+                        <p class="small">Don't have an account yet?</p>
+                        <a href="@Url.Action("SignUp", "Account")" style="color: #ce1126; font-weight: bold; text-decoration: none;">REGISTER AS A CITIZEN</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="text-center" style="margin-top: 20px;">
+                <a href="@Url.Action("Index", "Home")" class="text-muted small"><i class="glyphicon glyphicon-arrow-left"></i> Return to Homepage</a>
+            </div>
+        </div>
+    </div>
+</div>

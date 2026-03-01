@@ -1,0 +1,52 @@
+﻿@model IEnumerable<LuminaPortal.Models.UserAccount>
+@{
+    ViewBag.Title = "User Management";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <h2 style="font-weight: bold; color: #0038a8;">Admin Dashboard</h2>
+        <p class="text-muted">Database Management: System User Accounts</p>
+        <hr />
+
+        <div style="background: #f9f9f9; padding: 20px; border-radius: 8px; margin-bottom: 20px; border: 1px solid #eee;">
+            <div class="row">
+                <div class="col-md-8">
+                    <h4>Current Registered Users</h4>
+                    <p class="small text-info"><i class="glyphicon glyphicon-info-sign"></i> Authorized personnel only. All deletions are permanent.</p>
+                </div>
+                <div class="col-md-4 text-right">
+                    <a href="@Url.Action("Create")" class="btn btn-primary btn-lg" style="background: #0038a8;">
+                        <i class="glyphicon glyphicon-plus"></i> ADD NEW USER
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <table class="table table-hover table-striped" style="background: white;">
+            <thead style="background: #0038a8; color: white;">
+                <tr>
+                    <th style="padding: 15px;">Username</th>
+                    <th style="padding: 15px;">Email Address</th>
+                    <th style="padding: 15px;">Account Role</th>
+                    <th style="padding: 15px; text-align: center;">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td style="padding: 15px; font-weight: bold;">@item.Username</td>
+                        <td style="padding: 15px;">@item.Email</td>
+                        <td style="padding: 15px;"><span class="label label-default">@(item.RoleID == 1 ? "Administrator" : "Citizen")</span></td>
+                        <td style="padding: 15px; text-align: center;">
+                            <a href="@Url.Action("Delete", new { id = item.UserID })" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure you want to delete this user?');">
+                                <i class="glyphicon glyphicon-trash"></i> DELETE
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
