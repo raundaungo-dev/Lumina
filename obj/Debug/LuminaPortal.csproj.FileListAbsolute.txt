@@ -77,3 +77,5 @@ C:\Users\rjrms\source\repos\LuminaPortal\LuminaPortal\obj\Debug\LuminaPortal.csp
 C:\Users\rjrms\source\repos\LuminaPortal\LuminaPortal\obj\Debug\LuminaPo.8B7F7EEF.Up2Date
 C:\Users\rjrms\source\repos\LuminaPortal\LuminaPortal\obj\Debug\LuminaPortal.dll
 C:\Users\rjrms\source\repos\LuminaPortal\LuminaPortal\obj\Debug\LuminaPortal.pdb
+C:\Users\LEGION\Documents\2nd yr 2nd term programs\WEBDEV\webdev_MP\Lumina\obj\Debug\LuminaPortal.dll
+C:\Users\LEGION\Documents\2nd yr 2nd term programs\WEBDEV\webdev_MP\Lumina\obj\Debug\LuminaPortal.pdb

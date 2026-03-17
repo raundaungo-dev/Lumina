@@ -1,19 +1,65 @@
 ﻿@{
-    ViewBag.Title = "Contact";
+    ViewBag.Title = "Contact Us";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
-<main aria-labelledby="title">
-    <h2 id="title">@ViewBag.Title.</h2>
-    <h3>@ViewBag.Message</h3>
 
-    <address>
-        One Microsoft Way<br />
-        Redmond, WA 98052-6399<br />
-        <abbr title="Phone">P:</abbr>
-        425.555.0100
-    </address>
+<div class="container" style="margin-top: 40px; padding-bottom: 80px;">
+    <h2 style="font-weight: 900; color: #0038a8; text-transform: uppercase;">Contact Us</h2>
+    <hr style="border-top: 3px solid #f9a602; width: 50px; margin-left: 0;" />
 
-    <address>
-        <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
-        <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
-    </address>
-</main>
+    <div class="row" style="margin-top: 30px;">
+
+        <div class="col-md-6">
+            <h4 style="font-weight: bold; color: #0038a8;">City Government of Lumina</h4>
+            <address style="line-height: 2;">
+                <i class="glyphicon glyphicon-map-marker" style="color:#ce1126;"></i>
+                City Hall, Lumina City, Philippines<br />
+                <i class="glyphicon glyphicon-phone" style="color:#ce1126;"></i>
+                (02) 8-LUMINA (8-586-462)<br />
+                <i class="glyphicon glyphicon-envelope" style="color:#ce1126;"></i>
+                <a href="mailto:info@luminacity.gov.ph">info@luminacity.gov.ph</a>
+            </address>
+
+            <h4 style="font-weight: bold; color: #0038a8; margin-top: 25px;">Office Hours</h4>
+            <p>Monday – Friday: <strong>8:00 AM – 5:00 PM</strong></p>
+            <p>Saturday – Sunday: <strong>Closed</strong></p>
+        </div>
+
+        <div class="col-md-6">
+            <h4 style="font-weight: bold; color: #0038a8;">Department Contacts</h4>
+            <table class="table table-bordered" style="font-size: 0.9em;">
+                <thead style="background: #0038a8; color: white;">
+                    <tr>
+                        <th>Department</th>
+                        <th>Email</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Business Permits</td>
+                        <td><a href="mailto:permits@luminacity.gov.ph">permits@luminacity.gov.ph</a></td>
+                    </tr>
+                    <tr>
+                        <td>Civil Registry</td>
+                        <td><a href="mailto:civilreg@luminacity.gov.ph">civilreg@luminacity.gov.ph</a></td>
+                    </tr>
+                    <tr>
+                        <td>Real Property Tax</td>
+                        <td><a href="mailto:rpt@luminacity.gov.ph">rpt@luminacity.gov.ph</a></td>
+                    </tr>
+                    <tr>
+                        <td>Vendor & Market</td>
+                        <td><a href="mailto:market@luminacity.gov.ph">market@luminacity.gov.ph</a></td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <div style="background: #0038a8; color: white; padding: 20px; border-radius: 10px; margin-top: 20px;">
+                <h5 style="color: #f9a602; font-weight: bold; margin-top: 0;">24/7 EMERGENCY HOTLINE</h5>
+                <h3 style="font-weight: 900; margin: 5px 0;">(02) 8-LUMINA</h3>
+                <p class="small" style="margin: 0; opacity: 0.9;">Police • Fire • Medical Emergency</p>
+            </div>
+        </div>
+
+    </div>
+</div>

@@ -3,71 +3,71 @@
   "WorkspaceRootPath": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|c:\\users\\legion\\documents\\2nd yr 2nd term programs\\webdev\\webdev_mp\\lumina\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|c:\\users\\legion\\documents\\2nd yr 2nd term programs\\webdev\\webdev_mp\\lumina\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|c:\\users\\legion\\documents\\2nd yr 2nd term programs\\webdev\\webdev_mp\\lumina\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|c:\\users\\legion\\documents\\2nd yr 2nd term programs\\webdev\\webdev_mp\\lumina\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|c:\\users\\legion\\documents\\2nd yr 2nd term programs\\webdev\\webdev_mp\\lumina\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|c:\\users\\legion\\documents\\2nd yr 2nd term programs\\webdev\\webdev_mp\\lumina\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|c:\\users\\legion\\documents\\2nd yr 2nd term programs\\webdev\\webdev_mp\\lumina\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|c:\\users\\legion\\documents\\2nd yr 2nd term programs\\webdev\\webdev_mp\\lumina\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|c:\\users\\legion\\documents\\2nd yr 2nd term programs\\webdev\\webdev_mp\\lumina\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|c:\\users\\legion\\documents\\2nd yr 2nd term programs\\webdev\\webdev_mp\\lumina\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|c:\\users\\legion\\documents\\2nd yr 2nd term programs\\webdev\\webdev_mp\\lumina\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|c:\\users\\legion\\documents\\2nd yr 2nd term programs\\webdev\\webdev_mp\\lumina\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|c:\\users\\legion\\documents\\2nd yr 2nd term programs\\webdev\\webdev_mp\\lumina\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|c:\\users\\legion\\documents\\2nd yr 2nd term programs\\webdev\\webdev_mp\\lumina\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|c:\\users\\legion\\documents\\2nd yr 2nd term programs\\webdev\\webdev_mp\\lumina\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|c:\\users\\legion\\documents\\2nd yr 2nd term programs\\webdev\\webdev_mp\\lumina\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|c:\\users\\legion\\documents\\2nd yr 2nd term programs\\webdev\\webdev_mp\\lumina\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -78,17 +78,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Global.asax.cs",
               "RelativeDocumentMoniker": "Global.asax.cs",
               "ToolTip": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Global.asax.cs",
               "RelativeToolTip": "Global.asax.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T15:17:10.124Z",
               "EditorCaption": ""
@@ -101,63 +101,14 @@
               "RelativeDocumentMoniker": "Views\\Web.config",
               "ToolTip": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Web.config",
               "RelativeToolTip": "Views\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2026-03-16T15:16:47.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Users\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Users\\Index.cshtml",
-              "RelativeToolTip": "Views\\Users\\Index.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAYwDMAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T15:15:57.582Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Users\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Users\\Create.cshtml",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Users\\Create.cshtml",
-              "RelativeToolTip": "Views\\Users\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T15:15:46.415Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T15:15:33.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Home\\Contact.cshtml*",
-              "RelativeToolTip": "Views\\Home\\Contact.cshtml*",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwEAAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T15:14:01.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -165,11 +116,51 @@
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T15:16:27.499Z"
+              "WhenOpened": "2026-03-16T15:16:27.499Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwDMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T15:15:57.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T15:15:46.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T15:15:33.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -177,11 +168,12 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAIcAAAAAAAAAAAAYwLMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T15:15:20.91Z"
+              "WhenOpened": "2026-03-16T15:15:20.91Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Services.cshtml",
               "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Home\\Services.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Services.cshtml",
@@ -189,11 +181,12 @@
               "RelativeToolTip": "Views\\Home\\Services.cshtml",
               "ViewState": "AgIAAAUAAAAAAAAAAAAYwDEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T15:14:25.431Z"
+              "WhenOpened": "2026-03-16T15:14:25.431Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -201,7 +194,21 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAIAAAAAAAAAAAAYwC4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T15:14:15.164Z"
+              "WhenOpened": "2026-03-16T15:14:15.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T15:14:01.91Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -213,7 +220,8 @@
               "RelativeToolTip": "Views\\Home\\About.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T15:13:43.879Z"
+              "WhenOpened": "2026-03-16T15:13:43.879Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -225,7 +233,8 @@
               "RelativeToolTip": "Views\\Account\\SignUp.cshtml",
               "ViewState": "AgIAAAcAAAAAAAAAAAAYwCkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T15:13:26.391Z"
+              "WhenOpened": "2026-03-16T15:13:26.391Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -237,7 +246,8 @@
               "RelativeToolTip": "Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAcAAAAAAAAAAAAYwDMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T15:13:06.87Z"
+              "WhenOpened": "2026-03-16T15:13:06.87Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -249,7 +259,8 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T15:11:18.75Z"
+              "WhenOpened": "2026-03-16T15:11:18.75Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -261,7 +272,8 @@
               "RelativeToolTip": "Controllers\\UsersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T15:11:12.219Z"
+              "WhenOpened": "2026-03-16T15:11:12.219Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -286,7 +298,8 @@
               "RelativeToolTip": "Web.Debug.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-03-16T15:10:53.26Z"
+              "WhenOpened": "2026-03-16T15:10:53.26Z",
+              "EditorCaption": ""
             }
           ]
         }
