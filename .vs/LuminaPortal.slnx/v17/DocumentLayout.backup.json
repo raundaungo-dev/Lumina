@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|c:\\users\\legion\\documents\\2nd yr 2nd term programs\\webdev\\webdev_mp\\lumina\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|c:\\users\\legion\\documents\\2nd yr 2nd term programs\\webdev\\webdev_mp\\lumina\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
@@ -43,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4AAB75B7-6C33-4259-8C00-6ED9514E7061}|LuminaPortal.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -78,36 +86,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Web.config",
-              "RelativeDocumentMoniker": "Views\\Web.config",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Web.config",
-              "RelativeToolTip": "Views\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-03-16T15:16:47.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Users\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Users\\Create.cshtml",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Users\\Create.cshtml",
-              "RelativeToolTip": "Views\\Users\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T15:15:46.415Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
@@ -119,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
@@ -132,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -144,7 +127,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T15:14:15.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T15:15:46.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -156,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
@@ -169,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Users\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
@@ -181,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Services.cshtml",
               "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Home\\Services.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Services.cshtml",
@@ -194,6 +202,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Views\\Web.config",
+              "ToolTip": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Web.config",
+              "RelativeToolTip": "Views\\Web.config",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-16T15:16:47.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:10:52.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Models\\UserAccount.cs",
+              "RelativeDocumentMoniker": "Models\\UserAccount.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Models\\UserAccount.cs",
+              "RelativeToolTip": "Models\\UserAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:09:59.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Global.asax.cs",
               "RelativeDocumentMoniker": "Global.asax.cs",
@@ -206,19 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAYwC4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T15:14:15.164Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
@@ -230,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "SignUp.cshtml",
               "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Account\\SignUp.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\SignUp.cshtml",
@@ -242,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
@@ -254,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -266,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
@@ -278,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Web.Debug.config",
               "DocumentMoniker": "C:\\Users\\LEGION\\Documents\\2nd yr 2nd term programs\\WEBDEV\\webdev_MP\\Lumina\\Web.Debug.config",
               "RelativeDocumentMoniker": "Web.Debug.config",
