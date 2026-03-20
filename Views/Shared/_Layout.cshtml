@@ -144,7 +144,7 @@
             <ul class="nav navbar-nav">
                 <li>@Html.ActionLink("HOME", "Index", "Home")</li>
                 <li>@Html.ActionLink("TRANSPARENCY", "About", "Home")</li>
-                <li><a href="#">SERVICES</a></li>
+                <li>@Html.ActionLink("SERVICES", "Services", "Home")</li>
                 <li><a href="#">NEWS</a></li>
 
                 @if (Session["UserRole"] != null && (int)Session["UserRole"] == 1)
